@@ -1,1 +1,1 @@
-# searchind-algorithm
+ searching-algorithm
